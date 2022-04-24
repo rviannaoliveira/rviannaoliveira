@@ -4,7 +4,7 @@
 
 🎮 I love playing sports and playing video games and 5D&D
 
-🌎 I do it because I want and not because I need or hope that something will happen.
+🌎 I create my things because I want and not because I need or hope that something will happen.
 
 
 ### Take a look at my profile and my creations
