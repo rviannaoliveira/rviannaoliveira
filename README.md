@@ -16,7 +16,7 @@
 #### Recently I created two libraries that help Android's developer in your companies around the world
 
 Portuguese Version:\
-[Proposal in the world of RPG](https://medium.com/@rodrigo.vianna.oliveira/d-d-party-perfeita-para-sua-aplica%C3%A7%C3%A3o-android-6fa4b94d8618)
+[Proposal if the world were an RPG](https://medium.com/@rodrigo.vianna.oliveira/d-d-party-perfeita-para-sua-aplica%C3%A7%C3%A3o-android-6fa4b94d8618)
 
 [Library DynamicView](https://github.com/rviannaoliveira/DynamicView)([Paper about](https://medium.com/@rodrigo.vianna.oliveira/server-driven-ui-com-android-dynamic-views-o-guerreiro-mestre-de-armas-ee1d6527e471))
 
