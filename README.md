@@ -16,10 +16,8 @@
 #### Recently I created two libraries that help Android's developer in your companies around the world
 
 Portuguese Version:\
-[Proposal if the world were an RPG](https://medium.com/@rodrigo.vianna.oliveira/d-d-party-perfeita-para-sua-aplica%C3%A7%C3%A3o-android-6fa4b94d8618)
-
-[Library DynamicView](https://github.com/rviannaoliveira/DynamicView)([Paper about](https://medium.com/@rodrigo.vianna.oliveira/server-driven-ui-com-android-dynamic-views-o-guerreiro-mestre-de-armas-ee1d6527e471))
-
+[Proposal if the world were an RPG](https://medium.com/@rodrigo.vianna.oliveira/d-d-party-perfeita-para-sua-aplica%C3%A7%C3%A3o-android-6fa4b94d8618)\
+[Library DynamicView](https://github.com/rviannaoliveira/DynamicView)([Paper about](https://medium.com/@rodrigo.vianna.oliveira/server-driven-ui-com-android-dynamic-views-o-guerreiro-mestre-de-armas-ee1d6527e471))\
 [Library DeeplikRouter](https://github.com/rviannaoliveira/Deeplink)([Paper about](https://medium.com/@rodrigo.vianna.oliveira/roteamento-de-deeplink-com-deeplinkrouter-no-android-o-mago-implac%C3%A1vel-3f5d3ee22ed1))
 
 There are others articles that I wrote about my challenges/solution/experiencies, Take a look at them!
