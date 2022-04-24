@@ -22,7 +22,7 @@ Portuguese Version:\
 
 [Library DeeplikRouter](https://github.com/rviannaoliveira/Deeplink)([Paper about](https://medium.com/@rodrigo.vianna.oliveira/roteamento-de-deeplink-com-deeplinkrouter-no-android-o-mago-implac%C3%A1vel-3f5d3ee22ed1))
 
-There are others articles that I wrote about challenges/solution/experiencies, Take a look at them!
+There are others articles that I wrote about my challenges/solution/experiencies, Take a look at them!
 
 
 #### Outside the tech world
