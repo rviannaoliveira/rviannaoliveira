@@ -2,7 +2,7 @@
 
 👨‍💻 I'm a Software Engineer navigating in the mobile world. Nowadays I prefer to work remotely
 
-🎮 I love playing sports and playing video games and 5D&D
+🎮 I love playing sports and playing video games and 5D&D🎲
 
 🌎 I create my things because I want and not because I need or hope that something will happen.
 
@@ -22,7 +22,7 @@ Portuguese Version:\
 
 [Library DeeplikRouter](https://github.com/rviannaoliveira/Deeplink)([Paper about](https://medium.com/@rodrigo.vianna.oliveira/roteamento-de-deeplink-com-deeplinkrouter-no-android-o-mago-implac%C3%A1vel-3f5d3ee22ed1))
 
-There are others articles that I wrote about challenges/solution/experiencies 
+There are others articles that I wrote about challenges/solution/experiencies, Take a look at them!
 
 
 #### Outside the tech world
