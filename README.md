@@ -32,3 +32,7 @@ My channel\
 My songs\
 <a href="https://open.spotify.com/artist/7EvlVmPlFP6mCqhv5GtbwY"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
 
+![Rodrigo Vianna(Rods)'s github stats](https://github-readme-stats.vercel.app/api?username=rviannaoliveira&show_icons=true&theme=synthwave&icon_color=FFF&title_color=FFF&text_color=AFF)
+
+
+
