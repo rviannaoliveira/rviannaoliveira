@@ -2,7 +2,7 @@
 
 👨‍💻 I'm a Software Engineer navigating in the mobile world. Nowadays I prefer to work remotely
 
-🎮 I love playing sports and playing video games and 5D&D🎲
+🎮 I love to play sports, video games and 5D&D🎲
 
 🌎 I like to do my personal projects so I can contribute to the people in some way
 
