@@ -4,7 +4,7 @@
 
 🎮 I love to play sports, video games and 5D&D🎲
 
-🌎 I like to do my personal projects so I can contribute to the people in some way
+🌎 I like to do my personal projects so I can help to the people in some way
 
 ### Take a look at my profile and my creations
 
