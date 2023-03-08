@@ -22,6 +22,36 @@ Portuguese Version:\
 There are others articles that I wrote about my challenges/solution/experiencies, Take a look at them!
 
 
+#### Personal Libraries
+## Personal Projects
+
+<table style="overflow-x:auto;">
+   <tr>
+      <td>
+         <a href=https://github.com/rviannaoliveira/DynamicView>
+         <img style="width: 60px;height: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/687px-Android_logo_2019_%28stacked%29.svg.png">
+         </a>
+      </td>
+      <td>
+         <p>
+            <a href=https://github.com/rviannaoliveira/DynamicView>Dynamic View</a> Use Server Driven UI concepts to help the developer easily create screens on the Android platform
+         </p>
+      </td>
+   </tr>
+   <tr>
+      <td>
+         <a href="https://github.com/rviannaoliveira/Deeplink">
+         <img style="width: 60px;height: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/687px-Android_logo_2019_%28stacked%29.svg.png">
+         </a>
+      </td>
+      <td>
+         <p>
+         <a href="https://github.com/rviannaoliveira/Deeplink">Deeplink</a> this library helps you to make navigation flows within the application
+         </p>
+      </td>
+   </tr>
+</table>
+
 #### Outside the tech world
 
 My band\
@@ -33,6 +63,8 @@ My songs\
 <a href="https://open.spotify.com/artist/7EvlVmPlFP6mCqhv5GtbwY"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
 
 ![Rodrigo Vianna(Rods)'s github stats](https://github-readme-stats.vercel.app/api?username=rviannaoliveira&show_icons=true&theme=synthwave&icon_color=FFF&title_color=FFF&text_color=AFF)
+
+
 
 
 
