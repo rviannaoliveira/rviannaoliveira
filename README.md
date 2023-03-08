@@ -22,9 +22,6 @@ Portuguese Version:\
 There are others articles that I wrote about my challenges/solution/experiencies, Take a look at them!
 
 
-#### Personal Libraries
-## Personal Projects
-
 <table style="overflow-x:auto;">
    <tr>
       <td>
