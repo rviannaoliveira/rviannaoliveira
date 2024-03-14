@@ -48,6 +48,13 @@ There are others articles that I wrote about my challenges/solution/experiencies
    </tr>
 </table>
 
+<div align="center">
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=rviannaoliveira" alt="rviannaoliveira" />
+    </a>
+</p>
+
 #### Outside the tech world
 
 My band\
