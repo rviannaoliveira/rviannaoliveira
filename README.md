@@ -11,13 +11,14 @@
 
 ---
 
+### CodandoTV
+
+I created **CodandoTV**, a channel and initiative for the developer community, to share knowledge and experiences about technology and careers. Through videos, podcasts, mentoring and open source projects, we learn and build together.
+
 <div align="center">
   <a href="https://codandotv.com/">
     <img src="assets/codandotv.png" width="88" height="88" alt="CodandoTV logo" />
   </a>
-  <h3>CodandoTV</h3>
-  <p>My channel and community for sharing knowledge and building together.<br />
-  Videos, podcasts, mentoring and open source.</p>
   <p>
 <a href="https://www.youtube.com/c/CodandoTV"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="CodandoTV on YouTube" /></a>
 <a href="https://github.com/CodandoTV"><img src="https://img.shields.io/badge/CodandoTV-181717?style=for-the-badge&logo=github&logoColor=white" alt="CodandoTV on GitHub" /></a>
